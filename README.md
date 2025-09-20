@@ -27,3 +27,7 @@ git commit -m "Commit 6"
 echo "line 7" >> file.txt
 git add .
 git commit -m "Commit 7"
+
+echo "line 8" >> file.txt
+git add .
+git commit -m "Commit 8"
