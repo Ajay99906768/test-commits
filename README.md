@@ -19,3 +19,7 @@ git commit -m "Commit 4"
 echo "line 5" >> file.txt
 git add .
 git commit -m "Commit 5"
+
+echo "line 6" >> file.txt
+git add .
+git commit -m "Commit 6"
