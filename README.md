@@ -35,3 +35,7 @@ git commit -m "Commit 8"
 echo "line 9" >> file.txt
 git add .
 git commit -m "Commit 9"
+
+echo "line 10" >> file.txt
+git add .
+git commit -m "Commit 10"
